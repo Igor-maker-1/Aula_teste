@@ -28,7 +28,7 @@
 
 # \# Configurar o email do usuário
 
-# git config --global user.email "seuemail@exemplo.com"
+# git config --global user.email "Igor@gmail.com"
 
 # 
 
